@@ -6,7 +6,7 @@ Communication Tracker is a React-based web application designed to help business
 https://github.com/coder-aman2346/Calender
 
 ## Deployment Link
-https://clever-gecko-9eabbb.netlify.app/
+
 
 ## Prerequisites
 * Node.js (v16.0.0 or later)
@@ -60,32 +60,31 @@ Then Upload build file to Netlify
     * Users can select a specific company or multi-select multiple companies to log communication and 
     * When hovering over a completed communication, a tooltip will display the notes or comments recorded for that communication.
 
-  ![alt text](https://i.postimg.cc/fR1jHqyC/Screenshot-2024-12-03-221951.png)
+
 
 * **Admin Module**
     * Add new companies
     * Manage communication methods
 
-   ![alt text](https://i.postimg.cc/htmpqRH6/Screenshot-2024-12-03-222813.png)
-  ![alt text](https://i.postimg.cc/Y0JYXhq9/Screenshot-2024-12-03-223030.png)
+   
 
 * **Calendar View**
     * View Past Communications
     * View and manage Upcoming Communications
 
-   ![alt text](https://i.postimg.cc/MH4bh9tz/Screenshot-2024-12-03-222930.png)
+   
    
 * **Company List**
     * View All the companies
     * Edit and delete companies
 
-   ![alt text](https://i.postimg.cc/hj200Ddz/Screenshot-2024-12-03-222846.png)
+   
 
 * **Notification**
     * The notification icon display a badge with the count of overdue and due communications
     * View all overdue and due communications by clicking the icon
  
-  ![alt text](https://i.postimg.cc/1RYHnzSb/Screenshot-2024-12-03-223001.png)
+  
 
 ## Known Limitations
 * No built-in authentication system
@@ -106,11 +105,5 @@ Then Upload build file to Netlify
 * Develop reporting and analytics features
 
 
-## License
-This project has been build by Shivam Anand from IIIT Sonepat.
-
-## Contact
-SHIVAM ANAND - shivam.anand.216@gmail.com
-
-Deployed Project Link: https://clever-gecko-9eabbb.netlify.app/
+Deployed Project Link: 
 
